@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Buy groceries",
+        "status": "pending"
+    },
+    {
+        "task": "Clean the house",
+        "status": "pending"
+    },
+    {
+        "task": "Test add",
+        "done": false
+    }
+]
