@@ -27,6 +27,7 @@ nltk_data/
 .ipynb_checkpoints
 == PyInstaller ==
 
+.ipynb.layout
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
